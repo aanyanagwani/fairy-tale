@@ -16,7 +16,7 @@ function preload()
 }
 
 function setup() {
-	createCanvas(800, 750);
+	createCanvas(900, 750);
 
 	fairySound.play();
 
